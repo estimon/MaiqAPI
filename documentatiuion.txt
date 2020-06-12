@@ -1,0 +1,4 @@
+GET all quotes
+https://localhost/api/api/quote/read.php
+GET specific quote
+https://localhost/api/api/quote/read_single.php?id=1-37
